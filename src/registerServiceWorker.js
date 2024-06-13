@@ -6,4 +6,4 @@ if ('serviceWorker' in navigator) {
         console.error('Service worker registration failed:', error);
       });
     });
-  }
+  } 
