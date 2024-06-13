@@ -1,0 +1,22 @@
+{
+    "name": "PWA Vue App",
+    "short_name": "PWA Vue",
+    "theme_color": "#4DBA87",
+    "background_color": "#000000",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "/home/dev-210/Documents/Barathrajan/PWA/Project_PWA/projectone/src/assets/car.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/home/dev-210/Documents/Barathrajan/PWA/Project_PWA/projectone/src/assets/car1.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }
+    ],
+    "splash_pages": null
+  }
